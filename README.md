@@ -63,4 +63,16 @@ This repository holds all contents linked to the DIO (Digital Innovation One) co
     - Shift + / -> Comment row by row
     - Ctrl + Alt + O -> Remove the unused imports 
     - Ctrl + y -> Delete row
+    - Shift + f6 -> Refactor (change the class name)
+    - Shift+F12 -> Highlight the editor window
+    - Ctrl+Alt+L -> format code
+    - Ctrl+d -> duplicate row
+    - Ctrl+y-> delete row
+    - Ctrl+Shit+up arrow or down arrow -> move a entire code block up or down
+    - Project Structure -> File > Project Structure > Project (choose JDK version linked to the project in use)
+    - Ctrl +F4 -> close tabs
+    - Ctrl +b -> enter in a specific class (click on first)
+    - Plugins
+
+Basic development with Java:
 
